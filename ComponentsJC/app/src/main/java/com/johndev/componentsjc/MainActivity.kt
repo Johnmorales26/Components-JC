@@ -13,6 +13,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.johndev.componentsjc.ui.components.CardMainMenu
+import com.johndev.componentsjc.ui.components.ItemDetails
 import com.johndev.componentsjc.ui.components.ToolbarMain
 import com.johndev.componentsjc.ui.theme.ComponentsJCTheme
 
